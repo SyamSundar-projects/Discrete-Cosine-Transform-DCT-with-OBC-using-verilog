@@ -7,4 +7,6 @@ I have implemented DCT with OBC using verilog and matlab
 5) Quantization
 6) And again reconstructed the DCTQ image.
 
-
+The DCT using OBC presentation gives you the idea on how I implement this new DCT computations on FPGA.
+The DCT report have the code,results images.
+I have upload my codes of OBC and DCT.
